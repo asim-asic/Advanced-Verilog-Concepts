@@ -1,4 +1,4 @@
-# 4-bit Adder using Verilog
+# 4-bit Adder using task
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/language-Verilog-blue)
@@ -35,10 +35,10 @@ The verification is done using an exhaustive testbench, ensuring correctness acr
 ```
 adder/
 │
-├── add_vector.v
-├── test_adder.v
-├── wave.vcd
-└── README.md
+├── add_vector.v -> Task adder
+├── test_adder.v -> Test module
+├── output.txt -> Output
+└── README.md -> Documentation
 ```
 
 ---
