@@ -1,0 +1,515 @@
+---- FULL COVERAGE TEST START ----
+A= 0 B= 0 Cin=0 -> Sum= 0 Cout=0
+A= 0 B= 0 Cin=1 -> Sum= 1 Cout=0
+A= 0 B= 1 Cin=0 -> Sum= 1 Cout=0
+A= 0 B= 1 Cin=1 -> Sum= 2 Cout=0
+A= 0 B= 2 Cin=0 -> Sum= 2 Cout=0
+A= 0 B= 2 Cin=1 -> Sum= 3 Cout=0
+A= 0 B= 3 Cin=0 -> Sum= 3 Cout=0
+A= 0 B= 3 Cin=1 -> Sum= 4 Cout=0
+A= 0 B= 4 Cin=0 -> Sum= 4 Cout=0
+A= 0 B= 4 Cin=1 -> Sum= 5 Cout=0
+A= 0 B= 5 Cin=0 -> Sum= 5 Cout=0
+A= 0 B= 5 Cin=1 -> Sum= 6 Cout=0
+A= 0 B= 6 Cin=0 -> Sum= 6 Cout=0
+A= 0 B= 6 Cin=1 -> Sum= 7 Cout=0
+A= 0 B= 7 Cin=0 -> Sum= 7 Cout=0
+A= 0 B= 7 Cin=1 -> Sum= 8 Cout=0
+A= 0 B= 8 Cin=0 -> Sum= 8 Cout=0
+A= 0 B= 8 Cin=1 -> Sum= 9 Cout=0
+A= 0 B= 9 Cin=0 -> Sum= 9 Cout=0
+A= 0 B= 9 Cin=1 -> Sum=10 Cout=0
+A= 0 B=10 Cin=0 -> Sum=10 Cout=0
+A= 0 B=10 Cin=1 -> Sum=11 Cout=0
+A= 0 B=11 Cin=0 -> Sum=11 Cout=0
+A= 0 B=11 Cin=1 -> Sum=12 Cout=0
+A= 0 B=12 Cin=0 -> Sum=12 Cout=0
+A= 0 B=12 Cin=1 -> Sum=13 Cout=0
+A= 0 B=13 Cin=0 -> Sum=13 Cout=0
+A= 0 B=13 Cin=1 -> Sum=14 Cout=0
+A= 0 B=14 Cin=0 -> Sum=14 Cout=0
+A= 0 B=14 Cin=1 -> Sum=15 Cout=0
+A= 0 B=15 Cin=0 -> Sum=15 Cout=0
+A= 0 B=15 Cin=1 -> Sum= 0 Cout=1
+A= 1 B= 0 Cin=0 -> Sum= 1 Cout=0
+A= 1 B= 0 Cin=1 -> Sum= 2 Cout=0
+A= 1 B= 1 Cin=0 -> Sum= 2 Cout=0
+A= 1 B= 1 Cin=1 -> Sum= 3 Cout=0
+A= 1 B= 2 Cin=0 -> Sum= 3 Cout=0
+A= 1 B= 2 Cin=1 -> Sum= 4 Cout=0
+A= 1 B= 3 Cin=0 -> Sum= 4 Cout=0
+A= 1 B= 3 Cin=1 -> Sum= 5 Cout=0
+A= 1 B= 4 Cin=0 -> Sum= 5 Cout=0
+A= 1 B= 4 Cin=1 -> Sum= 6 Cout=0
+A= 1 B= 5 Cin=0 -> Sum= 6 Cout=0
+A= 1 B= 5 Cin=1 -> Sum= 7 Cout=0
+A= 1 B= 6 Cin=0 -> Sum= 7 Cout=0
+A= 1 B= 6 Cin=1 -> Sum= 8 Cout=0
+A= 1 B= 7 Cin=0 -> Sum= 8 Cout=0
+A= 1 B= 7 Cin=1 -> Sum= 9 Cout=0
+A= 1 B= 8 Cin=0 -> Sum= 9 Cout=0
+A= 1 B= 8 Cin=1 -> Sum=10 Cout=0
+A= 1 B= 9 Cin=0 -> Sum=10 Cout=0
+A= 1 B= 9 Cin=1 -> Sum=11 Cout=0
+A= 1 B=10 Cin=0 -> Sum=11 Cout=0
+A= 1 B=10 Cin=1 -> Sum=12 Cout=0
+A= 1 B=11 Cin=0 -> Sum=12 Cout=0
+A= 1 B=11 Cin=1 -> Sum=13 Cout=0
+A= 1 B=12 Cin=0 -> Sum=13 Cout=0
+A= 1 B=12 Cin=1 -> Sum=14 Cout=0
+A= 1 B=13 Cin=0 -> Sum=14 Cout=0
+A= 1 B=13 Cin=1 -> Sum=15 Cout=0
+A= 1 B=14 Cin=0 -> Sum=15 Cout=0
+A= 1 B=14 Cin=1 -> Sum= 0 Cout=1
+A= 1 B=15 Cin=0 -> Sum= 0 Cout=1
+A= 1 B=15 Cin=1 -> Sum= 1 Cout=1
+A= 2 B= 0 Cin=0 -> Sum= 2 Cout=0
+A= 2 B= 0 Cin=1 -> Sum= 3 Cout=0
+A= 2 B= 1 Cin=0 -> Sum= 3 Cout=0
+A= 2 B= 1 Cin=1 -> Sum= 4 Cout=0
+A= 2 B= 2 Cin=0 -> Sum= 4 Cout=0
+A= 2 B= 2 Cin=1 -> Sum= 5 Cout=0
+A= 2 B= 3 Cin=0 -> Sum= 5 Cout=0
+A= 2 B= 3 Cin=1 -> Sum= 6 Cout=0
+A= 2 B= 4 Cin=0 -> Sum= 6 Cout=0
+A= 2 B= 4 Cin=1 -> Sum= 7 Cout=0
+A= 2 B= 5 Cin=0 -> Sum= 7 Cout=0
+A= 2 B= 5 Cin=1 -> Sum= 8 Cout=0
+A= 2 B= 6 Cin=0 -> Sum= 8 Cout=0
+A= 2 B= 6 Cin=1 -> Sum= 9 Cout=0
+A= 2 B= 7 Cin=0 -> Sum= 9 Cout=0
+A= 2 B= 7 Cin=1 -> Sum=10 Cout=0
+A= 2 B= 8 Cin=0 -> Sum=10 Cout=0
+A= 2 B= 8 Cin=1 -> Sum=11 Cout=0
+A= 2 B= 9 Cin=0 -> Sum=11 Cout=0
+A= 2 B= 9 Cin=1 -> Sum=12 Cout=0
+A= 2 B=10 Cin=0 -> Sum=12 Cout=0
+A= 2 B=10 Cin=1 -> Sum=13 Cout=0
+A= 2 B=11 Cin=0 -> Sum=13 Cout=0
+A= 2 B=11 Cin=1 -> Sum=14 Cout=0
+A= 2 B=12 Cin=0 -> Sum=14 Cout=0
+A= 2 B=12 Cin=1 -> Sum=15 Cout=0
+A= 2 B=13 Cin=0 -> Sum=15 Cout=0
+A= 2 B=13 Cin=1 -> Sum= 0 Cout=1
+A= 2 B=14 Cin=0 -> Sum= 0 Cout=1
+A= 2 B=14 Cin=1 -> Sum= 1 Cout=1
+A= 2 B=15 Cin=0 -> Sum= 1 Cout=1
+A= 2 B=15 Cin=1 -> Sum= 2 Cout=1
+A= 3 B= 0 Cin=0 -> Sum= 3 Cout=0
+A= 3 B= 0 Cin=1 -> Sum= 4 Cout=0
+A= 3 B= 1 Cin=0 -> Sum= 4 Cout=0
+A= 3 B= 1 Cin=1 -> Sum= 5 Cout=0
+A= 3 B= 2 Cin=0 -> Sum= 5 Cout=0
+A= 3 B= 2 Cin=1 -> Sum= 6 Cout=0
+A= 3 B= 3 Cin=0 -> Sum= 6 Cout=0
+A= 3 B= 3 Cin=1 -> Sum= 7 Cout=0
+A= 3 B= 4 Cin=0 -> Sum= 7 Cout=0
+A= 3 B= 4 Cin=1 -> Sum= 8 Cout=0
+A= 3 B= 5 Cin=0 -> Sum= 8 Cout=0
+A= 3 B= 5 Cin=1 -> Sum= 9 Cout=0
+A= 3 B= 6 Cin=0 -> Sum= 9 Cout=0
+A= 3 B= 6 Cin=1 -> Sum=10 Cout=0
+A= 3 B= 7 Cin=0 -> Sum=10 Cout=0
+A= 3 B= 7 Cin=1 -> Sum=11 Cout=0
+A= 3 B= 8 Cin=0 -> Sum=11 Cout=0
+A= 3 B= 8 Cin=1 -> Sum=12 Cout=0
+A= 3 B= 9 Cin=0 -> Sum=12 Cout=0
+A= 3 B= 9 Cin=1 -> Sum=13 Cout=0
+A= 3 B=10 Cin=0 -> Sum=13 Cout=0
+A= 3 B=10 Cin=1 -> Sum=14 Cout=0
+A= 3 B=11 Cin=0 -> Sum=14 Cout=0
+A= 3 B=11 Cin=1 -> Sum=15 Cout=0
+A= 3 B=12 Cin=0 -> Sum=15 Cout=0
+A= 3 B=12 Cin=1 -> Sum= 0 Cout=1
+A= 3 B=13 Cin=0 -> Sum= 0 Cout=1
+A= 3 B=13 Cin=1 -> Sum= 1 Cout=1
+A= 3 B=14 Cin=0 -> Sum= 1 Cout=1
+A= 3 B=14 Cin=1 -> Sum= 2 Cout=1
+A= 3 B=15 Cin=0 -> Sum= 2 Cout=1
+A= 3 B=15 Cin=1 -> Sum= 3 Cout=1
+A= 4 B= 0 Cin=0 -> Sum= 4 Cout=0
+A= 4 B= 0 Cin=1 -> Sum= 5 Cout=0
+A= 4 B= 1 Cin=0 -> Sum= 5 Cout=0
+A= 4 B= 1 Cin=1 -> Sum= 6 Cout=0
+A= 4 B= 2 Cin=0 -> Sum= 6 Cout=0
+A= 4 B= 2 Cin=1 -> Sum= 7 Cout=0
+A= 4 B= 3 Cin=0 -> Sum= 7 Cout=0
+A= 4 B= 3 Cin=1 -> Sum= 8 Cout=0
+A= 4 B= 4 Cin=0 -> Sum= 8 Cout=0
+A= 4 B= 4 Cin=1 -> Sum= 9 Cout=0
+A= 4 B= 5 Cin=0 -> Sum= 9 Cout=0
+A= 4 B= 5 Cin=1 -> Sum=10 Cout=0
+A= 4 B= 6 Cin=0 -> Sum=10 Cout=0
+A= 4 B= 6 Cin=1 -> Sum=11 Cout=0
+A= 4 B= 7 Cin=0 -> Sum=11 Cout=0
+A= 4 B= 7 Cin=1 -> Sum=12 Cout=0
+A= 4 B= 8 Cin=0 -> Sum=12 Cout=0
+A= 4 B= 8 Cin=1 -> Sum=13 Cout=0
+A= 4 B= 9 Cin=0 -> Sum=13 Cout=0
+A= 4 B= 9 Cin=1 -> Sum=14 Cout=0
+A= 4 B=10 Cin=0 -> Sum=14 Cout=0
+A= 4 B=10 Cin=1 -> Sum=15 Cout=0
+A= 4 B=11 Cin=0 -> Sum=15 Cout=0
+A= 4 B=11 Cin=1 -> Sum= 0 Cout=1
+A= 4 B=12 Cin=0 -> Sum= 0 Cout=1
+A= 4 B=12 Cin=1 -> Sum= 1 Cout=1
+A= 4 B=13 Cin=0 -> Sum= 1 Cout=1
+A= 4 B=13 Cin=1 -> Sum= 2 Cout=1
+A= 4 B=14 Cin=0 -> Sum= 2 Cout=1
+A= 4 B=14 Cin=1 -> Sum= 3 Cout=1
+A= 4 B=15 Cin=0 -> Sum= 3 Cout=1
+A= 4 B=15 Cin=1 -> Sum= 4 Cout=1
+A= 5 B= 0 Cin=0 -> Sum= 5 Cout=0
+A= 5 B= 0 Cin=1 -> Sum= 6 Cout=0
+A= 5 B= 1 Cin=0 -> Sum= 6 Cout=0
+A= 5 B= 1 Cin=1 -> Sum= 7 Cout=0
+A= 5 B= 2 Cin=0 -> Sum= 7 Cout=0
+A= 5 B= 2 Cin=1 -> Sum= 8 Cout=0
+A= 5 B= 3 Cin=0 -> Sum= 8 Cout=0
+A= 5 B= 3 Cin=1 -> Sum= 9 Cout=0
+A= 5 B= 4 Cin=0 -> Sum= 9 Cout=0
+A= 5 B= 4 Cin=1 -> Sum=10 Cout=0
+A= 5 B= 5 Cin=0 -> Sum=10 Cout=0
+A= 5 B= 5 Cin=1 -> Sum=11 Cout=0
+A= 5 B= 6 Cin=0 -> Sum=11 Cout=0
+A= 5 B= 6 Cin=1 -> Sum=12 Cout=0
+A= 5 B= 7 Cin=0 -> Sum=12 Cout=0
+A= 5 B= 7 Cin=1 -> Sum=13 Cout=0
+A= 5 B= 8 Cin=0 -> Sum=13 Cout=0
+A= 5 B= 8 Cin=1 -> Sum=14 Cout=0
+A= 5 B= 9 Cin=0 -> Sum=14 Cout=0
+A= 5 B= 9 Cin=1 -> Sum=15 Cout=0
+A= 5 B=10 Cin=0 -> Sum=15 Cout=0
+A= 5 B=10 Cin=1 -> Sum= 0 Cout=1
+A= 5 B=11 Cin=0 -> Sum= 0 Cout=1
+A= 5 B=11 Cin=1 -> Sum= 1 Cout=1
+A= 5 B=12 Cin=0 -> Sum= 1 Cout=1
+A= 5 B=12 Cin=1 -> Sum= 2 Cout=1
+A= 5 B=13 Cin=0 -> Sum= 2 Cout=1
+A= 5 B=13 Cin=1 -> Sum= 3 Cout=1
+A= 5 B=14 Cin=0 -> Sum= 3 Cout=1
+A= 5 B=14 Cin=1 -> Sum= 4 Cout=1
+A= 5 B=15 Cin=0 -> Sum= 4 Cout=1
+A= 5 B=15 Cin=1 -> Sum= 5 Cout=1
+A= 6 B= 0 Cin=0 -> Sum= 6 Cout=0
+A= 6 B= 0 Cin=1 -> Sum= 7 Cout=0
+A= 6 B= 1 Cin=0 -> Sum= 7 Cout=0
+A= 6 B= 1 Cin=1 -> Sum= 8 Cout=0
+A= 6 B= 2 Cin=0 -> Sum= 8 Cout=0
+A= 6 B= 2 Cin=1 -> Sum= 9 Cout=0
+A= 6 B= 3 Cin=0 -> Sum= 9 Cout=0
+A= 6 B= 3 Cin=1 -> Sum=10 Cout=0
+A= 6 B= 4 Cin=0 -> Sum=10 Cout=0
+A= 6 B= 4 Cin=1 -> Sum=11 Cout=0
+A= 6 B= 5 Cin=0 -> Sum=11 Cout=0
+A= 6 B= 5 Cin=1 -> Sum=12 Cout=0
+A= 6 B= 6 Cin=0 -> Sum=12 Cout=0
+A= 6 B= 6 Cin=1 -> Sum=13 Cout=0
+A= 6 B= 7 Cin=0 -> Sum=13 Cout=0
+A= 6 B= 7 Cin=1 -> Sum=14 Cout=0
+A= 6 B= 8 Cin=0 -> Sum=14 Cout=0
+A= 6 B= 8 Cin=1 -> Sum=15 Cout=0
+A= 6 B= 9 Cin=0 -> Sum=15 Cout=0
+A= 6 B= 9 Cin=1 -> Sum= 0 Cout=1
+A= 6 B=10 Cin=0 -> Sum= 0 Cout=1
+A= 6 B=10 Cin=1 -> Sum= 1 Cout=1
+A= 6 B=11 Cin=0 -> Sum= 1 Cout=1
+A= 6 B=11 Cin=1 -> Sum= 2 Cout=1
+A= 6 B=12 Cin=0 -> Sum= 2 Cout=1
+A= 6 B=12 Cin=1 -> Sum= 3 Cout=1
+A= 6 B=13 Cin=0 -> Sum= 3 Cout=1
+A= 6 B=13 Cin=1 -> Sum= 4 Cout=1
+A= 6 B=14 Cin=0 -> Sum= 4 Cout=1
+A= 6 B=14 Cin=1 -> Sum= 5 Cout=1
+A= 6 B=15 Cin=0 -> Sum= 5 Cout=1
+A= 6 B=15 Cin=1 -> Sum= 6 Cout=1
+A= 7 B= 0 Cin=0 -> Sum= 7 Cout=0
+A= 7 B= 0 Cin=1 -> Sum= 8 Cout=0
+A= 7 B= 1 Cin=0 -> Sum= 8 Cout=0
+A= 7 B= 1 Cin=1 -> Sum= 9 Cout=0
+A= 7 B= 2 Cin=0 -> Sum= 9 Cout=0
+A= 7 B= 2 Cin=1 -> Sum=10 Cout=0
+A= 7 B= 3 Cin=0 -> Sum=10 Cout=0
+A= 7 B= 3 Cin=1 -> Sum=11 Cout=0
+A= 7 B= 4 Cin=0 -> Sum=11 Cout=0
+A= 7 B= 4 Cin=1 -> Sum=12 Cout=0
+A= 7 B= 5 Cin=0 -> Sum=12 Cout=0
+A= 7 B= 5 Cin=1 -> Sum=13 Cout=0
+A= 7 B= 6 Cin=0 -> Sum=13 Cout=0
+A= 7 B= 6 Cin=1 -> Sum=14 Cout=0
+A= 7 B= 7 Cin=0 -> Sum=14 Cout=0
+A= 7 B= 7 Cin=1 -> Sum=15 Cout=0
+A= 7 B= 8 Cin=0 -> Sum=15 Cout=0
+A= 7 B= 8 Cin=1 -> Sum= 0 Cout=1
+A= 7 B= 9 Cin=0 -> Sum= 0 Cout=1
+A= 7 B= 9 Cin=1 -> Sum= 1 Cout=1
+A= 7 B=10 Cin=0 -> Sum= 1 Cout=1
+A= 7 B=10 Cin=1 -> Sum= 2 Cout=1
+A= 7 B=11 Cin=0 -> Sum= 2 Cout=1
+A= 7 B=11 Cin=1 -> Sum= 3 Cout=1
+A= 7 B=12 Cin=0 -> Sum= 3 Cout=1
+A= 7 B=12 Cin=1 -> Sum= 4 Cout=1
+A= 7 B=13 Cin=0 -> Sum= 4 Cout=1
+A= 7 B=13 Cin=1 -> Sum= 5 Cout=1
+A= 7 B=14 Cin=0 -> Sum= 5 Cout=1
+A= 7 B=14 Cin=1 -> Sum= 6 Cout=1
+A= 7 B=15 Cin=0 -> Sum= 6 Cout=1
+A= 7 B=15 Cin=1 -> Sum= 7 Cout=1
+A= 8 B= 0 Cin=0 -> Sum= 8 Cout=0
+A= 8 B= 0 Cin=1 -> Sum= 9 Cout=0
+A= 8 B= 1 Cin=0 -> Sum= 9 Cout=0
+A= 8 B= 1 Cin=1 -> Sum=10 Cout=0
+A= 8 B= 2 Cin=0 -> Sum=10 Cout=0
+A= 8 B= 2 Cin=1 -> Sum=11 Cout=0
+A= 8 B= 3 Cin=0 -> Sum=11 Cout=0
+A= 8 B= 3 Cin=1 -> Sum=12 Cout=0
+A= 8 B= 4 Cin=0 -> Sum=12 Cout=0
+A= 8 B= 4 Cin=1 -> Sum=13 Cout=0
+A= 8 B= 5 Cin=0 -> Sum=13 Cout=0
+A= 8 B= 5 Cin=1 -> Sum=14 Cout=0
+A= 8 B= 6 Cin=0 -> Sum=14 Cout=0
+A= 8 B= 6 Cin=1 -> Sum=15 Cout=0
+A= 8 B= 7 Cin=0 -> Sum=15 Cout=0
+A= 8 B= 7 Cin=1 -> Sum= 0 Cout=1
+A= 8 B= 8 Cin=0 -> Sum= 0 Cout=1
+A= 8 B= 8 Cin=1 -> Sum= 1 Cout=1
+A= 8 B= 9 Cin=0 -> Sum= 1 Cout=1
+A= 8 B= 9 Cin=1 -> Sum= 2 Cout=1
+A= 8 B=10 Cin=0 -> Sum= 2 Cout=1
+A= 8 B=10 Cin=1 -> Sum= 3 Cout=1
+A= 8 B=11 Cin=0 -> Sum= 3 Cout=1
+A= 8 B=11 Cin=1 -> Sum= 4 Cout=1
+A= 8 B=12 Cin=0 -> Sum= 4 Cout=1
+A= 8 B=12 Cin=1 -> Sum= 5 Cout=1
+A= 8 B=13 Cin=0 -> Sum= 5 Cout=1
+A= 8 B=13 Cin=1 -> Sum= 6 Cout=1
+A= 8 B=14 Cin=0 -> Sum= 6 Cout=1
+A= 8 B=14 Cin=1 -> Sum= 7 Cout=1
+A= 8 B=15 Cin=0 -> Sum= 7 Cout=1
+A= 8 B=15 Cin=1 -> Sum= 8 Cout=1
+A= 9 B= 0 Cin=0 -> Sum= 9 Cout=0
+A= 9 B= 0 Cin=1 -> Sum=10 Cout=0
+A= 9 B= 1 Cin=0 -> Sum=10 Cout=0
+A= 9 B= 1 Cin=1 -> Sum=11 Cout=0
+A= 9 B= 2 Cin=0 -> Sum=11 Cout=0
+A= 9 B= 2 Cin=1 -> Sum=12 Cout=0
+A= 9 B= 3 Cin=0 -> Sum=12 Cout=0
+A= 9 B= 3 Cin=1 -> Sum=13 Cout=0
+A= 9 B= 4 Cin=0 -> Sum=13 Cout=0
+A= 9 B= 4 Cin=1 -> Sum=14 Cout=0
+A= 9 B= 5 Cin=0 -> Sum=14 Cout=0
+A= 9 B= 5 Cin=1 -> Sum=15 Cout=0
+A= 9 B= 6 Cin=0 -> Sum=15 Cout=0
+A= 9 B= 6 Cin=1 -> Sum= 0 Cout=1
+A= 9 B= 7 Cin=0 -> Sum= 0 Cout=1
+A= 9 B= 7 Cin=1 -> Sum= 1 Cout=1
+A= 9 B= 8 Cin=0 -> Sum= 1 Cout=1
+A= 9 B= 8 Cin=1 -> Sum= 2 Cout=1
+A= 9 B= 9 Cin=0 -> Sum= 2 Cout=1
+A= 9 B= 9 Cin=1 -> Sum= 3 Cout=1
+A= 9 B=10 Cin=0 -> Sum= 3 Cout=1
+A= 9 B=10 Cin=1 -> Sum= 4 Cout=1
+A= 9 B=11 Cin=0 -> Sum= 4 Cout=1
+A= 9 B=11 Cin=1 -> Sum= 5 Cout=1
+A= 9 B=12 Cin=0 -> Sum= 5 Cout=1
+A= 9 B=12 Cin=1 -> Sum= 6 Cout=1
+A= 9 B=13 Cin=0 -> Sum= 6 Cout=1
+A= 9 B=13 Cin=1 -> Sum= 7 Cout=1
+A= 9 B=14 Cin=0 -> Sum= 7 Cout=1
+A= 9 B=14 Cin=1 -> Sum= 8 Cout=1
+A= 9 B=15 Cin=0 -> Sum= 8 Cout=1
+A= 9 B=15 Cin=1 -> Sum= 9 Cout=1
+A=10 B= 0 Cin=0 -> Sum=10 Cout=0
+A=10 B= 0 Cin=1 -> Sum=11 Cout=0
+A=10 B= 1 Cin=0 -> Sum=11 Cout=0
+A=10 B= 1 Cin=1 -> Sum=12 Cout=0
+A=10 B= 2 Cin=0 -> Sum=12 Cout=0
+A=10 B= 2 Cin=1 -> Sum=13 Cout=0
+A=10 B= 3 Cin=0 -> Sum=13 Cout=0
+A=10 B= 3 Cin=1 -> Sum=14 Cout=0
+A=10 B= 4 Cin=0 -> Sum=14 Cout=0
+A=10 B= 4 Cin=1 -> Sum=15 Cout=0
+A=10 B= 5 Cin=0 -> Sum=15 Cout=0
+A=10 B= 5 Cin=1 -> Sum= 0 Cout=1
+A=10 B= 6 Cin=0 -> Sum= 0 Cout=1
+A=10 B= 6 Cin=1 -> Sum= 1 Cout=1
+A=10 B= 7 Cin=0 -> Sum= 1 Cout=1
+A=10 B= 7 Cin=1 -> Sum= 2 Cout=1
+A=10 B= 8 Cin=0 -> Sum= 2 Cout=1
+A=10 B= 8 Cin=1 -> Sum= 3 Cout=1
+A=10 B= 9 Cin=0 -> Sum= 3 Cout=1
+A=10 B= 9 Cin=1 -> Sum= 4 Cout=1
+A=10 B=10 Cin=0 -> Sum= 4 Cout=1
+A=10 B=10 Cin=1 -> Sum= 5 Cout=1
+A=10 B=11 Cin=0 -> Sum= 5 Cout=1
+A=10 B=11 Cin=1 -> Sum= 6 Cout=1
+A=10 B=12 Cin=0 -> Sum= 6 Cout=1
+A=10 B=12 Cin=1 -> Sum= 7 Cout=1
+A=10 B=13 Cin=0 -> Sum= 7 Cout=1
+A=10 B=13 Cin=1 -> Sum= 8 Cout=1
+A=10 B=14 Cin=0 -> Sum= 8 Cout=1
+A=10 B=14 Cin=1 -> Sum= 9 Cout=1
+A=10 B=15 Cin=0 -> Sum= 9 Cout=1
+A=10 B=15 Cin=1 -> Sum=10 Cout=1
+A=11 B= 0 Cin=0 -> Sum=11 Cout=0
+A=11 B= 0 Cin=1 -> Sum=12 Cout=0
+A=11 B= 1 Cin=0 -> Sum=12 Cout=0
+A=11 B= 1 Cin=1 -> Sum=13 Cout=0
+A=11 B= 2 Cin=0 -> Sum=13 Cout=0
+A=11 B= 2 Cin=1 -> Sum=14 Cout=0
+A=11 B= 3 Cin=0 -> Sum=14 Cout=0
+A=11 B= 3 Cin=1 -> Sum=15 Cout=0
+A=11 B= 4 Cin=0 -> Sum=15 Cout=0
+A=11 B= 4 Cin=1 -> Sum= 0 Cout=1
+A=11 B= 5 Cin=0 -> Sum= 0 Cout=1
+A=11 B= 5 Cin=1 -> Sum= 1 Cout=1
+A=11 B= 6 Cin=0 -> Sum= 1 Cout=1
+A=11 B= 6 Cin=1 -> Sum= 2 Cout=1
+A=11 B= 7 Cin=0 -> Sum= 2 Cout=1
+A=11 B= 7 Cin=1 -> Sum= 3 Cout=1
+A=11 B= 8 Cin=0 -> Sum= 3 Cout=1
+A=11 B= 8 Cin=1 -> Sum= 4 Cout=1
+A=11 B= 9 Cin=0 -> Sum= 4 Cout=1
+A=11 B= 9 Cin=1 -> Sum= 5 Cout=1
+A=11 B=10 Cin=0 -> Sum= 5 Cout=1
+A=11 B=10 Cin=1 -> Sum= 6 Cout=1
+A=11 B=11 Cin=0 -> Sum= 6 Cout=1
+A=11 B=11 Cin=1 -> Sum= 7 Cout=1
+A=11 B=12 Cin=0 -> Sum= 7 Cout=1
+A=11 B=12 Cin=1 -> Sum= 8 Cout=1
+A=11 B=13 Cin=0 -> Sum= 8 Cout=1
+A=11 B=13 Cin=1 -> Sum= 9 Cout=1
+A=11 B=14 Cin=0 -> Sum= 9 Cout=1
+A=11 B=14 Cin=1 -> Sum=10 Cout=1
+A=11 B=15 Cin=0 -> Sum=10 Cout=1
+A=11 B=15 Cin=1 -> Sum=11 Cout=1
+A=12 B= 0 Cin=0 -> Sum=12 Cout=0
+A=12 B= 0 Cin=1 -> Sum=13 Cout=0
+A=12 B= 1 Cin=0 -> Sum=13 Cout=0
+A=12 B= 1 Cin=1 -> Sum=14 Cout=0
+A=12 B= 2 Cin=0 -> Sum=14 Cout=0
+A=12 B= 2 Cin=1 -> Sum=15 Cout=0
+A=12 B= 3 Cin=0 -> Sum=15 Cout=0
+A=12 B= 3 Cin=1 -> Sum= 0 Cout=1
+A=12 B= 4 Cin=0 -> Sum= 0 Cout=1
+A=12 B= 4 Cin=1 -> Sum= 1 Cout=1
+A=12 B= 5 Cin=0 -> Sum= 1 Cout=1
+A=12 B= 5 Cin=1 -> Sum= 2 Cout=1
+A=12 B= 6 Cin=0 -> Sum= 2 Cout=1
+A=12 B= 6 Cin=1 -> Sum= 3 Cout=1
+A=12 B= 7 Cin=0 -> Sum= 3 Cout=1
+A=12 B= 7 Cin=1 -> Sum= 4 Cout=1
+A=12 B= 8 Cin=0 -> Sum= 4 Cout=1
+A=12 B= 8 Cin=1 -> Sum= 5 Cout=1
+A=12 B= 9 Cin=0 -> Sum= 5 Cout=1
+A=12 B= 9 Cin=1 -> Sum= 6 Cout=1
+A=12 B=10 Cin=0 -> Sum= 6 Cout=1
+A=12 B=10 Cin=1 -> Sum= 7 Cout=1
+A=12 B=11 Cin=0 -> Sum= 7 Cout=1
+A=12 B=11 Cin=1 -> Sum= 8 Cout=1
+A=12 B=12 Cin=0 -> Sum= 8 Cout=1
+A=12 B=12 Cin=1 -> Sum= 9 Cout=1
+A=12 B=13 Cin=0 -> Sum= 9 Cout=1
+A=12 B=13 Cin=1 -> Sum=10 Cout=1
+A=12 B=14 Cin=0 -> Sum=10 Cout=1
+A=12 B=14 Cin=1 -> Sum=11 Cout=1
+A=12 B=15 Cin=0 -> Sum=11 Cout=1
+A=12 B=15 Cin=1 -> Sum=12 Cout=1
+A=13 B= 0 Cin=0 -> Sum=13 Cout=0
+A=13 B= 0 Cin=1 -> Sum=14 Cout=0
+A=13 B= 1 Cin=0 -> Sum=14 Cout=0
+A=13 B= 1 Cin=1 -> Sum=15 Cout=0
+A=13 B= 2 Cin=0 -> Sum=15 Cout=0
+A=13 B= 2 Cin=1 -> Sum= 0 Cout=1
+A=13 B= 3 Cin=0 -> Sum= 0 Cout=1
+A=13 B= 3 Cin=1 -> Sum= 1 Cout=1
+A=13 B= 4 Cin=0 -> Sum= 1 Cout=1
+A=13 B= 4 Cin=1 -> Sum= 2 Cout=1
+A=13 B= 5 Cin=0 -> Sum= 2 Cout=1
+A=13 B= 5 Cin=1 -> Sum= 3 Cout=1
+A=13 B= 6 Cin=0 -> Sum= 3 Cout=1
+A=13 B= 6 Cin=1 -> Sum= 4 Cout=1
+A=13 B= 7 Cin=0 -> Sum= 4 Cout=1
+A=13 B= 7 Cin=1 -> Sum= 5 Cout=1
+A=13 B= 8 Cin=0 -> Sum= 5 Cout=1
+A=13 B= 8 Cin=1 -> Sum= 6 Cout=1
+A=13 B= 9 Cin=0 -> Sum= 6 Cout=1
+A=13 B= 9 Cin=1 -> Sum= 7 Cout=1
+A=13 B=10 Cin=0 -> Sum= 7 Cout=1
+A=13 B=10 Cin=1 -> Sum= 8 Cout=1
+A=13 B=11 Cin=0 -> Sum= 8 Cout=1
+A=13 B=11 Cin=1 -> Sum= 9 Cout=1
+A=13 B=12 Cin=0 -> Sum= 9 Cout=1
+A=13 B=12 Cin=1 -> Sum=10 Cout=1
+A=13 B=13 Cin=0 -> Sum=10 Cout=1
+A=13 B=13 Cin=1 -> Sum=11 Cout=1
+A=13 B=14 Cin=0 -> Sum=11 Cout=1
+A=13 B=14 Cin=1 -> Sum=12 Cout=1
+A=13 B=15 Cin=0 -> Sum=12 Cout=1
+A=13 B=15 Cin=1 -> Sum=13 Cout=1
+A=14 B= 0 Cin=0 -> Sum=14 Cout=0
+A=14 B= 0 Cin=1 -> Sum=15 Cout=0
+A=14 B= 1 Cin=0 -> Sum=15 Cout=0
+A=14 B= 1 Cin=1 -> Sum= 0 Cout=1
+A=14 B= 2 Cin=0 -> Sum= 0 Cout=1
+A=14 B= 2 Cin=1 -> Sum= 1 Cout=1
+A=14 B= 3 Cin=0 -> Sum= 1 Cout=1
+A=14 B= 3 Cin=1 -> Sum= 2 Cout=1
+A=14 B= 4 Cin=0 -> Sum= 2 Cout=1
+A=14 B= 4 Cin=1 -> Sum= 3 Cout=1
+A=14 B= 5 Cin=0 -> Sum= 3 Cout=1
+A=14 B= 5 Cin=1 -> Sum= 4 Cout=1
+A=14 B= 6 Cin=0 -> Sum= 4 Cout=1
+A=14 B= 6 Cin=1 -> Sum= 5 Cout=1
+A=14 B= 7 Cin=0 -> Sum= 5 Cout=1
+A=14 B= 7 Cin=1 -> Sum= 6 Cout=1
+A=14 B= 8 Cin=0 -> Sum= 6 Cout=1
+A=14 B= 8 Cin=1 -> Sum= 7 Cout=1
+A=14 B= 9 Cin=0 -> Sum= 7 Cout=1
+A=14 B= 9 Cin=1 -> Sum= 8 Cout=1
+A=14 B=10 Cin=0 -> Sum= 8 Cout=1
+A=14 B=10 Cin=1 -> Sum= 9 Cout=1
+A=14 B=11 Cin=0 -> Sum= 9 Cout=1
+A=14 B=11 Cin=1 -> Sum=10 Cout=1
+A=14 B=12 Cin=0 -> Sum=10 Cout=1
+A=14 B=12 Cin=1 -> Sum=11 Cout=1
+A=14 B=13 Cin=0 -> Sum=11 Cout=1
+A=14 B=13 Cin=1 -> Sum=12 Cout=1
+A=14 B=14 Cin=0 -> Sum=12 Cout=1
+A=14 B=14 Cin=1 -> Sum=13 Cout=1
+A=14 B=15 Cin=0 -> Sum=13 Cout=1
+A=14 B=15 Cin=1 -> Sum=14 Cout=1
+A=15 B= 0 Cin=0 -> Sum=15 Cout=0
+A=15 B= 0 Cin=1 -> Sum= 0 Cout=1
+A=15 B= 1 Cin=0 -> Sum= 0 Cout=1
+A=15 B= 1 Cin=1 -> Sum= 1 Cout=1
+A=15 B= 2 Cin=0 -> Sum= 1 Cout=1
+A=15 B= 2 Cin=1 -> Sum= 2 Cout=1
+A=15 B= 3 Cin=0 -> Sum= 2 Cout=1
+A=15 B= 3 Cin=1 -> Sum= 3 Cout=1
+A=15 B= 4 Cin=0 -> Sum= 3 Cout=1
+A=15 B= 4 Cin=1 -> Sum= 4 Cout=1
+A=15 B= 5 Cin=0 -> Sum= 4 Cout=1
+A=15 B= 5 Cin=1 -> Sum= 5 Cout=1
+A=15 B= 6 Cin=0 -> Sum= 5 Cout=1
+A=15 B= 6 Cin=1 -> Sum= 6 Cout=1
+A=15 B= 7 Cin=0 -> Sum= 6 Cout=1
+A=15 B= 7 Cin=1 -> Sum= 7 Cout=1
+A=15 B= 8 Cin=0 -> Sum= 7 Cout=1
+A=15 B= 8 Cin=1 -> Sum= 8 Cout=1
+A=15 B= 9 Cin=0 -> Sum= 8 Cout=1
+A=15 B= 9 Cin=1 -> Sum= 9 Cout=1
+A=15 B=10 Cin=0 -> Sum= 9 Cout=1
+A=15 B=10 Cin=1 -> Sum=10 Cout=1
+A=15 B=11 Cin=0 -> Sum=10 Cout=1
+A=15 B=11 Cin=1 -> Sum=11 Cout=1
+A=15 B=12 Cin=0 -> Sum=11 Cout=1
+A=15 B=12 Cin=1 -> Sum=12 Cout=1
+A=15 B=13 Cin=0 -> Sum=12 Cout=1
+A=15 B=13 Cin=1 -> Sum=13 Cout=1
+A=15 B=14 Cin=0 -> Sum=13 Cout=1
+A=15 B=14 Cin=1 -> Sum=14 Cout=1
+A=15 B=15 Cin=0 -> Sum=14 Cout=1
+A=15 B=15 Cin=1 -> Sum=15 Cout=1
+---- TEST COMPLETE ----
+test_adder.v:29: $finish called at 512 (1s)
