@@ -4,6 +4,7 @@ module adder4(
 	output [3:0] S,
 	output Co
 );
+	wire [4:0] C;
 	assign C[0] = Ci;
 
 	genvar i;

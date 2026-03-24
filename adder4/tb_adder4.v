@@ -13,19 +13,20 @@ module tb_adder4();
 	begin
 		$display("A\tB\tCi |\tS\tCo");
 		$display("------------------------------------");
-		$monitor("A=%d\tB=%d\tCi=%b |\t%d\t%b",A, B, Ci, S, Co);
+		$monitor("%d\t%d\t%d  |\t%d\t%d",A, B, Ci, S, Co);
 
 		for(i = 0; i < 16; i = i + 1) begin
 			for(j = 0; j < 16; j = j + 1) begin
-				for(k = 0; k < 16; k = k + 1) begin
+				for(k = 0; k < 2; k = k + 1) begin
 					A = i;
 					B = j;
 					Ci = k;
 					
-					#1 $finish();
+					#1;
 				end
 			end
 		end
+		$finish;
 	end
 endmodule
 
