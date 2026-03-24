@@ -34,6 +34,7 @@ Instead of manually instantiating full adders, the design uses a loop to create 
 - `adder4.v` → 4-bit adder using generate  
 - `tb_adder4.v` → Testbench with full coverage  
 - `output.txt` → Simulation results  
+- `README.md` → Documentation  
 
 ---
 
