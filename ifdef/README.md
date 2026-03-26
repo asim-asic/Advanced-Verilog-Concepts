@@ -1,9 +1,8 @@
 # Selective AND Gate using Compiler Directives
 
-![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
-![Simulation](https://img.shields.io/badge/Simulator-Icarus%20Verilog-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-Verilog-blue)
+![Platform](https://img.shields.io/badge/platform-ASIC-orange)
 ---
 
 ## Overview
